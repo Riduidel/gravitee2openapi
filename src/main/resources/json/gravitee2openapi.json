@@ -1,0 +1,9 @@
+[
+    {
+        "operation": "org.ndx.gravitee.openapi.transform.PathTransformer",
+        "doc": "Transform all paths infos",
+        "spec": {
+        	"paths": "paths"
+        }
+    }
+]
